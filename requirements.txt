@@ -1,4 +1,6 @@
 torch==2.2.0
+jupyter
+matplotlib
 torchvision==0.17.0
 opencv-python
 scikit-image
